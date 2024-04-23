@@ -2,6 +2,7 @@ field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
 yearcreated, Year Created
+locationcreated, Location Created
 description,Description,
 itemtype, Item Type
 pattern, Pattern
